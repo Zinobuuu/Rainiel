@@ -70,49 +70,49 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.pexels.com/photos/10684574/pexels-photo-10684574.jpeg?grayscale",
+        description: "The beauty of a sunset is found in its simplicity.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.pexels.com/photos/20340432/pexels-photo-20340432/free-photo-of-umbrella-and-a-lounger-on-a-beach.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1?grayscale",
+        description: "Sometimes, the best pictures are the ones that capture the fleeting moments",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.pexels.com/photos/29014458/pexels-photo-29014458/free-photo-of-stunning-cityscape-view-of-manhattan-skyline-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1?grayscale",
+        description: "Life is a collection of moments; cherish the ones that take your breath away.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.pexels.com/photos/29025961/pexels-photo-29025961/free-photo-of-vibrant-sunset-over-turkish-landscape.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1?grayscale",
+        description: "In every sunset, there's a promise of a new dawn.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.pexels.com/photos/29007647/pexels-photo-29007647/free-photo-of-serene-ocean-waves-under-a-dramatic-sky.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1?grayscale",
+        description: "A sunset is a reminder that endings can be beautiful too.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.unsplash.com/photo-1729673107451-ff3570515776?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?grayscale",
+        description: "Not every photo needs to be perfect; sometimes, it’s the imperfections that tell a story",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.unsplash.com/photo-1729673107372-ca159df767ab?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?grayscale",
+        description: "The colors of the sunset remind us that beauty often lies in the simplest of things.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.unsplash.com/photo-1729673107390-cde6bf3397e2?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?grayscale",
+        description: "Every sunset is a reminder to pause and appreciate the day.",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Random pictures often capture the essence of life better than planned ones.",
         link: "#",
     },
     {
@@ -122,12 +122,12 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "A sunset doesn’t need a filter; its natural beauty speaks for itself.",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "In the chaos of life, find moments like sunsets that ground you",
         link: "#",
     },
 ];
