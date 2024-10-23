@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Welcome to my portfolio. Feel free to look around or get in touch if you have any questions.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://images.unsplash.com/photo-1729670737935-ab85d9473ad6?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
@@ -144,8 +144,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
+    github: "https://github.com/Zinobuuu/Rainiel",
+    facebook: "https://www.facebook.com/Saigo.no.odori?mibextid=ZbWKwL",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
 };
