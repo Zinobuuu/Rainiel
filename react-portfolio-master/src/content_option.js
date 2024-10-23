@@ -57,15 +57,15 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "You may hire me to help you with ui/ux design, or you can just pay me to do it yourself.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I can create any kind of basic mobile application you want, just be sure to give me a lot of money.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Develop website",
+        description: "If you provide me the specifics, I can make whatever type of website you like.",
     },
 ];
 
